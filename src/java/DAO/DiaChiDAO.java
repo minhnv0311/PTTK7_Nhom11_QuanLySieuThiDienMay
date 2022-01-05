@@ -7,7 +7,7 @@ package DAO;
 
 import Model.DiaChi;
 
-public class DiaChiDAO {
+public class DiaChiDAO extends DAO {
     public DiaChiDAO() {
     }
     public DiaChi getDiaChi() {

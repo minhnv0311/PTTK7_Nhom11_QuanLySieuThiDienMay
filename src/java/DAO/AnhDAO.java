@@ -8,7 +8,7 @@ package DAO;
 import Model.Anh;
 import java.util.ArrayList;
 
-public class AnhDAO {
+public class AnhDAO extends DAO {
     public AnhDAO() {
     }
     public ArrayList<Anh> getAnh() {

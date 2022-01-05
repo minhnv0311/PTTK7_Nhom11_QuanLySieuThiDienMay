@@ -8,7 +8,7 @@ package DAO;
 import Model.NhanVien;
 import java.util.ArrayList;
 
-public class NhanVienDAO {
+public class NhanVienDAO extends DAO {
 
     public NhanVienDAO() {
     }

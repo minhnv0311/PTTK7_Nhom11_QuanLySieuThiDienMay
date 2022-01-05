@@ -11,7 +11,7 @@ import Model.KhachHang;
  *
  * @author Minh Nguyen
  */
-public class KhachHangDAO {
+public class KhachHangDAO extends DAO {
     public KhachHangDAO(){}
     
     public boolean ThemKhachHang(KhachHang kh){

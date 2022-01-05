@@ -7,7 +7,7 @@ package DAO;
 
 import Model.ThanhVien;
 
-public class ThanhVienDAO {
+public class ThanhVienDAO extends DAO {
     public ThanhVienDAO() {
         super();
     }

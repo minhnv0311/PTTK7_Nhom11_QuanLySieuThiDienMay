@@ -14,7 +14,7 @@ import java.util.ArrayList;
  *
  * @author Bui Quang Dam
  */
-public class SanPhamDAO {
+public class SanPhamDAO extends DAO {
 
     public SanPhamDAO() {
     }

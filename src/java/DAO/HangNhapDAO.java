@@ -13,7 +13,7 @@ import java.util.Date;
  *
  * @author Minh Nguyen
  */
-public class HangNhapDAO {
+public class HangNhapDAO extends DAO {
     public HangNhapDAO(){}
     
     public ArrayList<HangNhap> getDanhSachHangNhap(Date TuNgay, Date DenNgay, String idNhanVien) {

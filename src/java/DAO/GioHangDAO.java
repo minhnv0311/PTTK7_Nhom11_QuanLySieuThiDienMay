@@ -12,7 +12,7 @@ import java.util.ArrayList;
  *
  * @author Minh Nguyen
  */
-public class GioHangDAO {
+public class GioHangDAO extends DAO {
     
     public GioHangDAO() {
     }

@@ -8,7 +8,7 @@ package DAO;
 import Model.DanhGiaSanPham;
 import java.util.ArrayList;
 
-public class DanhGiaDAO {
+public class DanhGiaDAO extends DAO {
     public DanhGiaDAO() {
     }
     public ArrayList<DanhGiaSanPham> getDanhGia() {

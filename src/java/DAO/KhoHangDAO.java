@@ -8,7 +8,7 @@ package DAO;
 import Model.KhoHang;
 import java.util.ArrayList;
 
-public class KhoHangDAO {
+public class KhoHangDAO extends DAO {
     
     public KhoHangDAO() {
     }
